@@ -1,5 +1,5 @@
 # PHPMetar
-PHPMetar is a simple class to decode METAR code.
+PHP METAR decoder is a simple class to decode METAR codes.
 
 # Example use
 
